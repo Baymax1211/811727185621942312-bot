@@ -1,0 +1,6 @@
+{
+    "generalChannelId": "GENERAL_ID_HERE",
+    "graveyardChannelId": "GRAVEYARD_ID_HERE",
+    "deadChatRoleId": "DEAD_CHAT_ROLE_ID_HERE",
+    "inactivityTimeout": 600000
+}

@@ -1,0 +1,12 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore all .log files
+*.log
+
+# Ignore environment variables file
+.env*
+package-lock.json
+
+# Ignore all other folers
+.vscode/
